@@ -1,0 +1,242 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Type Certificate Revitalization",
+    "section": "",
+    "text": "Preface",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#executive-summary",
+    "href": "index.html#executive-summary",
+    "title": "Type Certificate Revitalization",
+    "section": "Executive Summary",
+    "text": "Executive Summary\nmarenco-aviation GmbH, led by Martin Stucki, the engineer behind the innovative design and development of the Marenco Swisshelicopter SH09 (now AW09), proposes to acquire the Type Certificate (TC) and production equipment for the twin-engine MD900 helicopter.\nThis initiative aims to upgrade the avionics, re-establish the supply chain, and bring this proven platform back into production to address a significant gap in the FAR/CS27 certified twin-helicopter market.\nThe project leverages Marenco’s existing engineering and design capabilities, a well-defined market need, and the potential for early revenue generation through spare parts for the existing MD900 fleet.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#opportunity",
+    "href": "index.html#opportunity",
+    "title": "Type Certificate Revitalization",
+    "section": "Opportunity",
+    "text": "Opportunity\n\nMarket Gap\nA clear need exists for a modern, efficient twin-engine helicopter in the FAR/CS27 class. The Airbus EC135 and H145 currently dominate, but operators seek alternatives that offer the right balance of size, performance, and cost.\n\n\nMD900 Strengths\nThe MD900 boasts a large cabin, low noise levels (thanks to its NOTAR system), and a smooth ride due to its five-bladed rotor system. These features made it popular for HEMS, police, and VIP transport.\n\n\nUntapped Potential\nThe existing MD900 fleet is eager for spare parts and upgrades, presenting an immediate revenue opportunity. A modernized cockpit and improved avionics can significantly enhance the helicopter’s appeal.\n\n\nCompetitive Advantages\n\nOpportunity to deliver a twin-engine helicopter with the lowest vibration and noise level in its class.\nOne of the largest cabins.\nNo tail rotor as a safety feature, especially in confined landing spots and operation close to people.\nModernized product at an attractive price",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#strategy",
+    "href": "index.html#strategy",
+    "title": "Type Certificate Revitalization",
+    "section": "Strategy",
+    "text": "Strategy\n1.  Acquire the TC: Secure the Type Certificate and tooling for the MD900.\n2.  Upgrade and Modernize: Integrate modern avionics and a user-friendly cockpit.\n3.  Re-establish Supply Chain: Build a reliable network of suppliers in the US and Switzerland.\n4.  Production: Establish assembly lines in both the US (Mesa, Arizona) and Switzerland (Mollis).\n5.  Support Existing Fleet: Provide spare parts and maintenance services to current MD900 operators.\n6.  Future Development: Explore upgrades such as a shrouded tail rotor, single-engine variant, and fuselage extensions.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#competitive-landscape",
+    "href": "index.html#competitive-landscape",
+    "title": "Type Certificate Revitalization",
+    "section": "Competitive Landscape",
+    "text": "Competitive Landscape\n\nAirbus: Dominates the market with the EC135 and H145. The upcoming H140 variant demonstrates the continued demand for this class of helicopter.\nBell: The 429 suffers from high noise levels and limited payload.\nLeonardo: The A109 remains competitive due to its attractive price and high speed, despite its smaller cabin.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "1.1 Process for the bidding\nAccording to Spencer Berg of Seabury Aviation Partners in the call on 11th September 2025, he needs the following:\nFurthermore, it was stated that other parties are also preparing something, and we should expedite the process if possible.\nMD Helicopters will decide with whom they are going as a purchaser.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#process-for-the-bidding",
+    "href": "intro.html#process-for-the-bidding",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "LOI along the lines of the one sent earlier\nTimeline to close the transaction\nPOF is key and has to be sent, too\nAll approvals of the investor, board of directors, etc., which show that the company is ready, willing, and able to acquire the TC.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#critical-components-for-serial-production",
+    "href": "intro.html#critical-components-for-serial-production",
+    "title": "1  Introduction",
+    "section": "1.2 Critical Components for Serial Production",
+    "text": "1.2 Critical Components for Serial Production\n\n1.2.1 Gearbox\nThe needs to be maintained and manufactured with a new partner. This shall be done together with Sauter, Bachmann AG in Netstal. For the testing we need to build a test-bench. It will be similar to the one we built for the SH09 project, only with two input motors instead of one.\n\n\n1.2.2 Flexbeams\nFor the flexbeams of the rotor-head, we will work in parallel with the existing supplier and with Carbo-Link AG in Fehraltorf. Carbo-link is specialised in carbon tension cables.\n\n\n1.2.3 Rotorblades\nAlso parallel work with Carbo-link and the existing supplier. Carbo-link designed and delivered two different rotorblades for P2 and for the Elbit Systems program together with Marenco AG.\n\n\n1.2.4 Tension-Torsion Strap (“TT Strap”)\nTT Strap of the fan for the Notar shall be replaced with the design as it is used nowadays in Fenestrons (“Fan-in-Fin”-Tail Rotors).\n\n\n1.2.5 Integrated Instrument Display System (“IIDS”)\nThe actual IIDS design can not be used any longer. Different suppliers can supply the same functionality on a multi function display.\n\n\n1.2.6 Autopilot\nWe will evaluate between three existing suppliers: Genesys, Garmin, and Thales.\n\n\n1.2.7 Fuselage\nThe fuselage has many parts, so early in the project we must define how they will be manufactured, assembled, and whether a partner will produce the entire fuselage.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#expected-time-to-realisation",
+    "href": "intro.html#expected-time-to-realisation",
+    "title": "1  Introduction",
+    "section": "1.3 Expected Time to Realisation",
+    "text": "1.3 Expected Time to Realisation",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "staffing.html",
+    "href": "staffing.html",
+    "title": "2  Staffing",
+    "section": "",
+    "text": "2.1 Technical Staff\nNote that ppp stands here for Planning, Preparation, and Production.\nFrom the above estimations of details to be developed, we can summarise the man-days needed per part.\nFor the technical stuff, it is foreseen that engineers employed are ramped up as follows over the years. Initially, engineers are leased from Marenco AG, Pfäffikon. Then, former employees of Marenco Swisshelicopters AG who are available shall be employed, before new personnel is employed. For the calculation of the cash flows in the years 4 to 10, we assume the same count of personnel as in year 3.\nPersonnel Scheduled per Year\n\n\n\nYear 1\nYear 2\nYear 3\n\n\n\n\ntechnical_engineering\n7\n15\n20\n\n\nsupply_chain\n2\n5\n8\n\n\nppp\n3\n6\n10",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Staffing</span>"
+    ]
+  },
+  {
+    "objectID": "staffing.html#administrative-staff",
+    "href": "staffing.html#administrative-staff",
+    "title": "2  Staffing",
+    "section": "2.2 Administrative Staff",
+    "text": "2.2 Administrative Staff\n\n\n\nPlanned Administrative Personnel\n\n\nAdministrative.Staff\nYear.1\nYear.2\nYear.3\n\n\n\n\nCompliance Verification Engineers (CVEs)\n1\n3\n4\n\n\nSales Marketing\n1\n3\n5\n\n\nHR\n1\n2\n2\n\n\nCFO\n1\n1\n1\n\n\nAccountant\n0\n1\n1\n\n\nCEO Secretary\n1\n1\n1\n\n\nCEO\n1\n1\n1",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Staffing</span>"
+    ]
+  },
+  {
+    "objectID": "products_and_services.html",
+    "href": "products_and_services.html",
+    "title": "3  Products and Services",
+    "section": "",
+    "text": "3.1 Description of your products and services\nThe MD900 was produced between 1995 and 1997. It is expected that the existing fleet still stands at 85 units.\nThe MD902 Explorer was produced between 1997 and 2022. It is expected that the existing fleet still stands at approximately 135 units.\nFleet holders would profit from a new supply of spare parts and upgrades.\nHence, revenues can be generated from:",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Products and Services</span>"
+    ]
+  },
+  {
+    "objectID": "products_and_services.html#description-of-your-products-and-services",
+    "href": "products_and_services.html#description-of-your-products-and-services",
+    "title": "3  Products and Services",
+    "section": "",
+    "text": "Spare parts sales for the existing fleet.\nMaintenance and upgrade services.\nNew helicopter sales.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Products and Services</span>"
+    ]
+  },
+  {
+    "objectID": "products_and_services.html#estimated-costs-of-the-md900-in-serial-production",
+    "href": "products_and_services.html#estimated-costs-of-the-md900-in-serial-production",
+    "title": "3  Products and Services",
+    "section": "3.2 Estimated Costs of the MD900 in serial production",
+    "text": "3.2 Estimated Costs of the MD900 in serial production\nBased on the comparison costs for P1 (derived from an earlier helicopter project at the time), the costs are estimated for the MD900 parts.\n\n\n\nExpected Costs for MD900: Comparison with P1 Costs\n\n\nCategory\nItem\nExpected Costs (in production)\nComparison Costs (P1)\n\n\n\n\nAirframe\nAirframe total\n415000\n586129\n\n\nAirframe\nJ25 Equipment & furnishing\n60000\n45813\n\n\nAirframe\nJ32 Landing Gear\n25000\n10622\n\n\nAirframe\nJ52 Doors\n80000\n176997\n\n\nAirframe\nJ53-55 Airframe\n200000\n346143\n\n\nAirframe\nJ56 Windows\n50000\n56654\n\n\nAvionics\nAvionics total\n207000\n215264\n\n\nAvionics\nJ21 ECS\n0\n0\n\n\nAvionics\nJ23 Communication\n20000\n3074\n\n\nAvionics\nJ24 Electrical Power\n40000\n14470\n\n\nAvionics\nJ31 Indicating/recording System\n50000\n9141\n\n\nAvionics\nJ33 Lights\n10000\n7461\n\n\nAvionics\nJ34 Navigation\n50000\n31075\n\n\nAvionics\nJ46 System Integration\n0\n49511\n\n\nAvionics\nJ76 Engine Controls\n7000\n6173\n\n\nAvionics\nJ91 Wiring\n30000\n103480\n\n\nDrive Train\nDrive Train total\n1917000\n1366753\n\n\nDrive Train\nJ26 Fire Protection\n10000\n22000\n\n\nDrive Train\nJ28 Fuel\n60000\n97356\n\n\nDrive Train\nJ63 Main Rotor Drive\n300000\n415519\n\n\nDrive Train\nJ71 Power Plant\n15000\n22000\n\n\nDrive Train\nJ72 Engine Turbine\n1500000\n800000\n\n\nDrive Train\nJ75 Air\n12000\n20000\n\n\nDrive Train\nJ76 Engine Controls\n0\n0\n\n\nDrive Train\nJ78 Exhaust\n10000\n24738\n\n\nDrive Train\nJ79 Oil\n10000\n21150\n\n\nFlightsystem\nFlight System total\n560000\n782735\n\n\nFlightsystem\nJ29 Hydraulic\n90000\n195385\n\n\nFlightsystem\nJ62 Main Rotor\n300000\n396600\n\n\nFlightsystem\nJ64 Tail Rotor\n50000\n26680\n\n\nFlightsystem\nJ67 Flight Controls\n120000\n164080\n\n\nTotal\nTotal Costs\n3099000\n2950831",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Products and Services</span>"
+    ]
+  },
+  {
+    "objectID": "products_and_services.html#estimated-price-per-spare-and-overhaul",
+    "href": "products_and_services.html#estimated-price-per-spare-and-overhaul",
+    "title": "3  Products and Services",
+    "section": "3.3 Estimated Price per Spare and Overhaul",
+    "text": "3.3 Estimated Price per Spare and Overhaul\n\n\n\nEstimated Sales Prices for Spares and Overhauls\n\n\nItem\nSales.Price\n\n\n\n\nGearbox overhaul\n250000\n\n\nFlexbeams\n50000\n\n\nRotorblades\n100000\n\n\nManifolds\n40000\n\n\nHydraulic Pumps\n40000\n\n\nDifferent Parts\n100000\n\n\nTotal Spares Sales Price\n580000",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Products and Services</span>"
+    ]
+  },
+  {
+    "objectID": "financial_projections.html",
+    "href": "financial_projections.html",
+    "title": "4  Financial Projections",
+    "section": "",
+    "text": "4.1 Inflation\nThe following cash flow model estimates the annual price inflation for costs and personnel to be 1,5%.\nThe price inflation for helicopters sold, however, is at 3.5% for the first 3 years, and is reduced to 2% after the market entry of marenco-aviation GmbH, because of the changing market dynamics.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Financial Projections</span>"
+    ]
+  },
+  {
+    "objectID": "financial_projections.html#basic-cash-flow-model",
+    "href": "financial_projections.html#basic-cash-flow-model",
+    "title": "4  Financial Projections",
+    "section": "4.2 Basic Cash Flow Model",
+    "text": "4.2 Basic Cash Flow Model\n\n\n\nTransponierte Cash Flows: Spaltennamen aus erster Spalte\n\n\nVariable\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\n31\n32\n33\n34\n35\n36\n37\n38\n39\n40\n41\n42\n43\n44\n45\n46\n47\n48\n49\n50\n51\n52\n53\n54\n55\n56\n57\n58\n59\n60\n61\n62\n63\n64\n65\n66\n67\n68\n69\n70\n71\n72\n73\n74\n75\n76\n77\n78\n79\n80\n81\n82\n83\n84\n85\n86\n87\n88\n89\n90\n91\n92\n93\n94\n95\n96\n97\n98\n99\n100\n101\n102\n103\n104\n105\n106\n107\n108\n109\n110\n111\n112\n113\n114\n115\n116\n117\n118\n119\n120\n\n\n\n\nHeli_sales\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n3,749,288\n3,749,288\n3,749,288\n3,749,288\n3,749,288\n3,749,288\n3,749,288\n3,749,288\n3,749,288\n3,749,288\n3,749,288\n3,749,288\n16,630,768\n16,630,768\n16,630,768\n16,630,768\n16,630,768\n16,630,768\n16,630,768\n16,630,768\n16,630,768\n16,630,768\n16,630,768\n16,630,768\n22,617,845\n22,617,845\n22,617,845\n22,617,845\n22,617,845\n22,617,845\n22,617,845\n22,617,845\n22,617,845\n22,617,845\n22,617,845\n22,617,845\n23,070,202\n23,070,202\n23,070,202\n23,070,202\n23,070,202\n23,070,202\n23,070,202\n23,070,202\n23,070,202\n23,070,202\n23,070,202\n23,070,202\n23,531,606\n23,531,606\n23,531,606\n23,531,606\n23,531,606\n23,531,606\n23,531,606\n23,531,606\n23,531,606\n23,531,606\n23,531,606\n23,531,606\n24,002,238\n24,002,238\n24,002,238\n24,002,238\n24,002,238\n24,002,238\n24,002,238\n24,002,238\n24,002,238\n24,002,238\n24,002,238\n24,002,238\n24,482,282\n24,482,282\n24,482,282\n24,482,282\n24,482,282\n24,482,282\n24,482,282\n24,482,282\n24,482,282\n24,482,282\n24,482,282\n24,482,282\n24,971,928\n24,971,928\n24,971,928\n24,971,928\n24,971,928\n24,971,928\n24,971,928\n24,971,928\n24,971,928\n24,971,928\n24,971,928\n24,971,928\n\n\nSpare_and_Maintenance\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n258,879\n258,879\n258,879\n258,879\n258,879\n258,879\n258,879\n258,879\n258,879\n258,879\n258,879\n258,879\n535,880\n535,880\n535,880\n535,880\n535,880\n535,880\n535,880\n535,880\n535,880\n535,880\n535,880\n535,880\n546,598\n546,598\n546,598\n546,598\n546,598\n546,598\n546,598\n546,598\n546,598\n546,598\n546,598\n546,598\n557,530\n557,530\n557,530\n557,530\n557,530\n557,530\n557,530\n557,530\n557,530\n557,530\n557,530\n557,530\n284,340\n284,340\n284,340\n284,340\n284,340\n284,340\n284,340\n284,340\n284,340\n284,340\n284,340\n284,340\n290,027\n290,027\n290,027\n290,027\n290,027\n290,027\n290,027\n290,027\n290,027\n290,027\n290,027\n290,027\n69,026\n69,026\n69,026\n69,026\n69,026\n69,026\n69,026\n69,026\n69,026\n69,026\n69,026\n69,026\n372,151\n372,151\n372,151\n372,151\n372,151\n372,151\n372,151\n372,151\n372,151\n372,151\n372,151\n372,151\n\n\nTotal_Sales\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n4,008,167\n4,008,167\n4,008,167\n4,008,167\n4,008,167\n4,008,167\n4,008,167\n4,008,167\n4,008,167\n4,008,167\n4,008,167\n4,008,167\n17,166,648\n17,166,648\n17,166,648\n17,166,648\n17,166,648\n17,166,648\n17,166,648\n17,166,648\n17,166,648\n17,166,648\n17,166,648\n17,166,648\n23,164,443\n23,164,443\n23,164,443\n23,164,443\n23,164,443\n23,164,443\n23,164,443\n23,164,443\n23,164,443\n23,164,443\n23,164,443\n23,164,443\n23,627,731\n23,627,731\n23,627,731\n23,627,731\n23,627,731\n23,627,731\n23,627,731\n23,627,731\n23,627,731\n23,627,731\n23,627,731\n23,627,731\n23,815,946\n23,815,946\n23,815,946\n23,815,946\n23,815,946\n23,815,946\n23,815,946\n23,815,946\n23,815,946\n23,815,946\n23,815,946\n23,815,946\n24,292,265\n24,292,265\n24,292,265\n24,292,265\n24,292,265\n24,292,265\n24,292,265\n24,292,265\n24,292,265\n24,292,265\n24,292,265\n24,292,265\n24,551,309\n24,551,309\n24,551,309\n24,551,309\n24,551,309\n24,551,309\n24,551,309\n24,551,309\n24,551,309\n24,551,309\n24,551,309\n24,551,309\n25,344,079\n25,344,079\n25,344,079\n25,344,079\n25,344,079\n25,344,079\n25,344,079\n25,344,079\n25,344,079\n25,344,079\n25,344,079\n25,344,079\n\n\nHeli_Costs\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n(1,862,389)\n(1,862,389)\n(1,862,389)\n(1,862,389)\n(1,862,389)\n(1,862,389)\n(1,862,389)\n(1,862,389)\n(1,862,389)\n(1,862,389)\n(1,862,389)\n(1,862,389)\n(8,101,393)\n(8,101,393)\n(8,101,393)\n(8,101,393)\n(8,101,393)\n(8,101,393)\n(8,101,393)\n(8,101,393)\n(8,101,393)\n(8,101,393)\n(8,101,393)\n(8,101,393)\n(10,963,885)\n(10,963,885)\n(10,963,885)\n(10,963,885)\n(10,963,885)\n(10,963,885)\n(10,963,885)\n(10,963,885)\n(10,963,885)\n(10,963,885)\n(10,963,885)\n(10,963,885)\n(11,128,344)\n(11,128,344)\n(11,128,344)\n(11,128,344)\n(11,128,344)\n(11,128,344)\n(11,128,344)\n(11,128,344)\n(11,128,344)\n(11,128,344)\n(11,128,344)\n(11,128,344)\n(11,295,269)\n(11,295,269)\n(11,295,269)\n(11,295,269)\n(11,295,269)\n(11,295,269)\n(11,295,269)\n(11,295,269)\n(11,295,269)\n(11,295,269)\n(11,295,269)\n(11,295,269)\n(11,464,698)\n(11,464,698)\n(11,464,698)\n(11,464,698)\n(11,464,698)\n(11,464,698)\n(11,464,698)\n(11,464,698)\n(11,464,698)\n(11,464,698)\n(11,464,698)\n(11,464,698)\n(11,636,668)\n(11,636,668)\n(11,636,668)\n(11,636,668)\n(11,636,668)\n(11,636,668)\n(11,636,668)\n(11,636,668)\n(11,636,668)\n(11,636,668)\n(11,636,668)\n(11,636,668)\n(11,811,218)\n(11,811,218)\n(11,811,218)\n(11,811,218)\n(11,811,218)\n(11,811,218)\n(11,811,218)\n(11,811,218)\n(11,811,218)\n(11,811,218)\n(11,811,218)\n(11,811,218)\n\n\nSpare_Costs\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n(129,440)\n(129,440)\n(129,440)\n(129,440)\n(129,440)\n(129,440)\n(129,440)\n(129,440)\n(129,440)\n(129,440)\n(129,440)\n(129,440)\n(267,940)\n(267,940)\n(267,940)\n(267,940)\n(267,940)\n(267,940)\n(267,940)\n(267,940)\n(267,940)\n(267,940)\n(267,940)\n(267,940)\n(273,299)\n(273,299)\n(273,299)\n(273,299)\n(273,299)\n(273,299)\n(273,299)\n(273,299)\n(273,299)\n(273,299)\n(273,299)\n(273,299)\n(278,765)\n(278,765)\n(278,765)\n(278,765)\n(278,765)\n(278,765)\n(278,765)\n(278,765)\n(278,765)\n(278,765)\n(278,765)\n(278,765)\n(142,170)\n(142,170)\n(142,170)\n(142,170)\n(142,170)\n(142,170)\n(142,170)\n(142,170)\n(142,170)\n(142,170)\n(142,170)\n(142,170)\n(145,014)\n(145,014)\n(145,014)\n(145,014)\n(145,014)\n(145,014)\n(145,014)\n(145,014)\n(145,014)\n(145,014)\n(145,014)\n(145,014)\n(34,513)\n(34,513)\n(34,513)\n(34,513)\n(34,513)\n(34,513)\n(34,513)\n(34,513)\n(34,513)\n(34,513)\n(34,513)\n(34,513)\n(186,076)\n(186,076)\n(186,076)\n(186,076)\n(186,076)\n(186,076)\n(186,076)\n(186,076)\n(186,076)\n(186,076)\n(186,076)\n(186,076)\n\n\nTotal_Mat_Costs\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n(1,991,829)\n(1,991,829)\n(1,991,829)\n(1,991,829)\n(1,991,829)\n(1,991,829)\n(1,991,829)\n(1,991,829)\n(1,991,829)\n(1,991,829)\n(1,991,829)\n(1,991,829)\n(8,369,333)\n(8,369,333)\n(8,369,333)\n(8,369,333)\n(8,369,333)\n(8,369,333)\n(8,369,333)\n(8,369,333)\n(8,369,333)\n(8,369,333)\n(8,369,333)\n(8,369,333)\n(11,237,184)\n(11,237,184)\n(11,237,184)\n(11,237,184)\n(11,237,184)\n(11,237,184)\n(11,237,184)\n(11,237,184)\n(11,237,184)\n(11,237,184)\n(11,237,184)\n(11,237,184)\n(11,407,109)\n(11,407,109)\n(11,407,109)\n(11,407,109)\n(11,407,109)\n(11,407,109)\n(11,407,109)\n(11,407,109)\n(11,407,109)\n(11,407,109)\n(11,407,109)\n(11,407,109)\n(11,437,439)\n(11,437,439)\n(11,437,439)\n(11,437,439)\n(11,437,439)\n(11,437,439)\n(11,437,439)\n(11,437,439)\n(11,437,439)\n(11,437,439)\n(11,437,439)\n(11,437,439)\n(11,609,711)\n(11,609,711)\n(11,609,711)\n(11,609,711)\n(11,609,711)\n(11,609,711)\n(11,609,711)\n(11,609,711)\n(11,609,711)\n(11,609,711)\n(11,609,711)\n(11,609,711)\n(11,671,182)\n(11,671,182)\n(11,671,182)\n(11,671,182)\n(11,671,182)\n(11,671,182)\n(11,671,182)\n(11,671,182)\n(11,671,182)\n(11,671,182)\n(11,671,182)\n(11,671,182)\n(11,997,294)\n(11,997,294)\n(11,997,294)\n(11,997,294)\n(11,997,294)\n(11,997,294)\n(11,997,294)\n(11,997,294)\n(11,997,294)\n(11,997,294)\n(11,997,294)\n(11,997,294)\n\n\nSalaries_Engin\n0\n(133,000)\n(133,000)\n(133,000)\n(133,000)\n(133,000)\n(133,000)\n(133,000)\n(133,000)\n(133,000)\n(133,000)\n(133,000)\n(133,000)\n(292,489)\n(292,489)\n(292,489)\n(292,489)\n(292,489)\n(292,489)\n(292,489)\n(292,489)\n(292,489)\n(292,489)\n(292,489)\n(292,489)\n(433,896)\n(433,896)\n(433,896)\n(433,896)\n(433,896)\n(433,896)\n(433,896)\n(433,896)\n(433,896)\n(433,896)\n(433,896)\n(433,896)\n(440,405)\n(440,405)\n(440,405)\n(440,405)\n(440,405)\n(440,405)\n(440,405)\n(440,405)\n(440,405)\n(440,405)\n(440,405)\n(440,405)\n(447,011)\n(447,011)\n(447,011)\n(447,011)\n(447,011)\n(447,011)\n(447,011)\n(447,011)\n(447,011)\n(447,011)\n(447,011)\n(447,011)\n(453,716)\n(453,716)\n(453,716)\n(453,716)\n(453,716)\n(453,716)\n(453,716)\n(453,716)\n(453,716)\n(453,716)\n(453,716)\n(453,716)\n(460,522)\n(460,522)\n(460,522)\n(460,522)\n(460,522)\n(460,522)\n(460,522)\n(460,522)\n(460,522)\n(460,522)\n(460,522)\n(460,522)\n(467,430)\n(467,430)\n(467,430)\n(467,430)\n(467,430)\n(467,430)\n(467,430)\n(467,430)\n(467,430)\n(467,430)\n(467,430)\n(467,430)\n(474,441)\n(474,441)\n(474,441)\n(474,441)\n(474,441)\n(474,441)\n(474,441)\n(474,441)\n(474,441)\n(474,441)\n(474,441)\n(474,441)\n(481,558)\n(481,558)\n(481,558)\n(481,558)\n(481,558)\n(481,558)\n(481,558)\n(481,558)\n(481,558)\n(481,558)\n(481,558)\n(481,558)\n\n\nSalaries_Admin\n0\n(91,833)\n(91,833)\n(91,833)\n(91,833)\n(91,833)\n(91,833)\n(91,833)\n(91,833)\n(91,833)\n(91,833)\n(91,833)\n(91,833)\n(160,708)\n(160,708)\n(160,708)\n(160,708)\n(160,708)\n(160,708)\n(160,708)\n(160,708)\n(160,708)\n(160,708)\n(160,708)\n(160,708)\n(197,374)\n(197,374)\n(197,374)\n(197,374)\n(197,374)\n(197,374)\n(197,374)\n(197,374)\n(197,374)\n(197,374)\n(197,374)\n(197,374)\n(200,335)\n(200,335)\n(200,335)\n(200,335)\n(200,335)\n(200,335)\n(200,335)\n(200,335)\n(200,335)\n(200,335)\n(200,335)\n(200,335)\n(203,340)\n(203,340)\n(203,340)\n(203,340)\n(203,340)\n(203,340)\n(203,340)\n(203,340)\n(203,340)\n(203,340)\n(203,340)\n(203,340)\n(206,390)\n(206,390)\n(206,390)\n(206,390)\n(206,390)\n(206,390)\n(206,390)\n(206,390)\n(206,390)\n(206,390)\n(206,390)\n(206,390)\n(209,486)\n(209,486)\n(209,486)\n(209,486)\n(209,486)\n(209,486)\n(209,486)\n(209,486)\n(209,486)\n(209,486)\n(209,486)\n(209,486)\n(212,628)\n(212,628)\n(212,628)\n(212,628)\n(212,628)\n(212,628)\n(212,628)\n(212,628)\n(212,628)\n(212,628)\n(212,628)\n(212,628)\n(215,817)\n(215,817)\n(215,817)\n(215,817)\n(215,817)\n(215,817)\n(215,817)\n(215,817)\n(215,817)\n(215,817)\n(215,817)\n(215,817)\n(219,054)\n(219,054)\n(219,054)\n(219,054)\n(219,054)\n(219,054)\n(219,054)\n(219,054)\n(219,054)\n(219,054)\n(219,054)\n(219,054)\n\n\nTotal_Salaries\n0\n(224,833)\n(224,833)\n(224,833)\n(224,833)\n(224,833)\n(224,833)\n(224,833)\n(224,833)\n(224,833)\n(224,833)\n(224,833)\n(224,833)\n(453,198)\n(453,198)\n(453,198)\n(453,198)\n(453,198)\n(453,198)\n(453,198)\n(453,198)\n(453,198)\n(453,198)\n(453,198)\n(453,198)\n(631,270)\n(631,270)\n(631,270)\n(631,270)\n(631,270)\n(631,270)\n(631,270)\n(631,270)\n(631,270)\n(631,270)\n(631,270)\n(631,270)\n(640,739)\n(640,739)\n(640,739)\n(640,739)\n(640,739)\n(640,739)\n(640,739)\n(640,739)\n(640,739)\n(640,739)\n(640,739)\n(640,739)\n(650,351)\n(650,351)\n(650,351)\n(650,351)\n(650,351)\n(650,351)\n(650,351)\n(650,351)\n(650,351)\n(650,351)\n(650,351)\n(650,351)\n(660,106)\n(660,106)\n(660,106)\n(660,106)\n(660,106)\n(660,106)\n(660,106)\n(660,106)\n(660,106)\n(660,106)\n(660,106)\n(660,106)\n(670,007)\n(670,007)\n(670,007)\n(670,007)\n(670,007)\n(670,007)\n(670,007)\n(670,007)\n(670,007)\n(670,007)\n(670,007)\n(670,007)\n(680,057)\n(680,057)\n(680,057)\n(680,057)\n(680,057)\n(680,057)\n(680,057)\n(680,057)\n(680,057)\n(680,057)\n(680,057)\n(680,057)\n(690,258)\n(690,258)\n(690,258)\n(690,258)\n(690,258)\n(690,258)\n(690,258)\n(690,258)\n(690,258)\n(690,258)\n(690,258)\n(690,258)\n(700,612)\n(700,612)\n(700,612)\n(700,612)\n(700,612)\n(700,612)\n(700,612)\n(700,612)\n(700,612)\n(700,612)\n(700,612)\n(700,612)\n\n\nCAD / PLM\n0\n(71,500)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n(161,892)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n(237,982)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n(241,552)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n(245,175)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n(248,853)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n(252,585)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n(256,374)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n(260,220)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n(264,123)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n\n\nERP\n0\n(45,000)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n(96,425)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n(136,505)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n(138,552)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n(140,631)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n(142,740)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n(144,881)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n(147,054)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n(149,260)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n(151,499)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n\n\nMarketing\n0\n0\n0\n0\n0\n0\n(300,000)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n(500,000)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n(600,000)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n(609,000)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n(618,135)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n(627,407)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n(636,818)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n(646,370)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n(656,066)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n(665,907)\n0\n0\n0\n0\n0\n0\n\n\nRental_Mollis\n0\n(50,000)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n(75,000)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n(100,000)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n(101,500)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n(103,022)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n\n\nRental_USA\n0\n(50,000)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n(100,000)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n(500,000)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n(507,500)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n(515,112)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n(522,839)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n(530,682)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n(538,642)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n(546,722)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n(554,922)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n\n\nTestbench Gearbox\n0\n(100,000)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n(200,000)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n(200,000)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n\n\nRotorhead Flex\n0\n(50,000)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n(50,000)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n\n\nCockpit\n0\n(150,000)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n(100,000)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n\n\nAutopilot\n0\n(100,000)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n(100,000)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n\n\nGearbox\n0\n(100,000)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n(100,000)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n\n\nRotorblades\n0\n(100,000)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n(200,000)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n\n\nFlex\n0\n(100,000)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n\n\nNotar Fan\n0\n(100,000)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n(100,000)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n\n\nFuselage Tooling\n0\n(100,000)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n(300,000)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n\n\nOther_Expenses\n0\n(1,116,500)\n0\n0\n0\n0\n(300,000)\n0\n0\n0\n0\n0\n0\n(1,583,318)\n0\n0\n0\n0\n(500,000)\n0\n0\n0\n0\n0\n0\n(1,174,487)\n0\n0\n0\n0\n(600,000)\n0\n0\n0\n0\n0\n0\n(989,104)\n0\n0\n0\n0\n(609,000)\n0\n0\n0\n0\n0\n0\n(1,003,941)\n0\n0\n0\n0\n(618,135)\n0\n0\n0\n0\n0\n0\n(914,432)\n0\n0\n0\n0\n(627,407)\n0\n0\n0\n0\n0\n0\n(928,148)\n0\n0\n0\n0\n(636,818)\n0\n0\n0\n0\n0\n0\n(942,071)\n0\n0\n0\n0\n(646,370)\n0\n0\n0\n0\n0\n0\n(956,202)\n0\n0\n0\n0\n(656,066)\n0\n0\n0\n0\n0\n0\n(970,545)\n0\n0\n0\n0\n(665,907)\n0\n0\n0\n0\n0\n0\n\n\nTC\n0\n(15,000,000)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n\n\nLand_purchase\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n\n\nproduction_hall\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n\n\nInvestments\n0\n(15,000,000)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n\n\nShareholders_Loans\n0\n15,833\n15,833\n15,833\n15,833\n15,833\n15,833\n15,833\n15,833\n15,833\n15,833\n15,833\n15,833\n15,833\n15,833\n15,833\n15,833\n15,833\n15,833\n15,833\n15,833\n15,833\n15,833\n15,833\n15,833\n15,833\n15,833\n15,833\n15,833\n15,833\n15,833\n15,833\n15,833\n(87,083)\n(87,083)\n(87,083)\n(87,083)\n(87,083)\n(87,083)\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n\n\nCF_monthly\n0\n(16,325,500)\n(209,000)\n(209,000)\n(209,000)\n(209,000)\n(509,000)\n(209,000)\n(209,000)\n(209,000)\n(209,000)\n(209,000)\n(209,000)\n(2,020,682)\n(437,364)\n(437,364)\n(437,364)\n(437,364)\n(937,364)\n(437,364)\n(437,364)\n(437,364)\n(437,364)\n(437,364)\n(437,364)\n226,414\n1,400,901\n1,400,901\n1,400,901\n1,400,901\n800,901\n1,400,901\n1,400,901\n1,297,984\n1,297,984\n1,297,984\n1,297,984\n7,080,388\n8,069,492\n8,156,576\n8,156,576\n8,156,576\n7,547,576\n8,156,576\n8,156,576\n8,156,576\n8,156,576\n8,156,576\n8,156,576\n10,272,967\n11,276,908\n11,276,908\n11,276,908\n11,276,908\n10,658,773\n11,276,908\n11,276,908\n11,276,908\n11,276,908\n11,276,908\n11,276,908\n10,646,085\n11,560,517\n11,560,517\n11,560,517\n11,560,517\n10,933,110\n11,560,517\n11,560,517\n11,560,517\n11,560,517\n11,560,517\n11,560,517\n10,780,351\n11,708,499\n11,708,499\n11,708,499\n11,708,499\n11,071,681\n11,708,499\n11,708,499\n11,708,499\n11,708,499\n11,708,499\n11,708,499\n11,060,425\n12,002,496\n12,002,496\n12,002,496\n12,002,496\n11,356,125\n12,002,496\n12,002,496\n12,002,496\n12,002,496\n12,002,496\n12,002,496\n11,233,667\n12,189,869\n12,189,869\n12,189,869\n12,189,869\n11,533,803\n12,189,869\n12,189,869\n12,189,869\n12,189,869\n12,189,869\n12,189,869\n11,675,628\n12,646,173\n12,646,173\n12,646,173\n12,646,173\n11,980,266\n12,646,173\n12,646,173\n12,646,173\n12,646,173\n12,646,173\n12,646,173\n\n\nCF_acc\n0\n(16,325,500)\n(16,534,500)\n(16,743,500)\n(16,952,500)\n(17,161,500)\n(17,670,500)\n(17,879,500)\n(18,088,500)\n(18,297,500)\n(18,506,500)\n(18,715,500)\n(18,924,500)\n(20,945,182)\n(21,382,546)\n(21,819,910)\n(22,257,274)\n(22,694,638)\n(23,632,002)\n(24,069,367)\n(24,506,731)\n(24,944,095)\n(25,381,459)\n(25,818,823)\n(26,256,188)\n(26,029,773)\n(24,628,872)\n(23,227,972)\n(21,827,071)\n(20,426,170)\n(19,625,269)\n(18,224,368)\n(16,823,467)\n(15,525,483)\n(14,227,499)\n(12,929,514)\n(11,631,530)\n(4,551,142)\n3,518,350\n11,674,926\n19,831,502\n27,988,077\n35,535,653\n43,692,229\n51,848,804\n60,005,380\n68,161,956\n76,318,531\n84,475,107\n94,748,074\n106,024,982\n117,301,889\n128,578,797\n139,855,704\n150,514,477\n161,791,384\n173,068,292\n184,345,200\n195,622,107\n206,899,015\n218,175,923\n228,822,008\n240,382,525\n251,943,042\n263,503,558\n275,064,075\n285,997,185\n297,557,702\n309,118,219\n320,678,736\n332,239,253\n343,799,770\n355,360,287\n366,140,638\n377,849,137\n389,557,637\n401,266,136\n412,974,636\n424,046,317\n435,754,816\n447,463,316\n459,171,815\n470,880,315\n482,588,814\n494,297,313\n505,357,739\n517,360,234\n529,362,730\n541,365,226\n553,367,722\n564,723,847\n576,726,343\n588,728,839\n600,731,334\n612,733,830\n624,736,326\n636,738,822\n647,972,489\n660,162,358\n672,352,227\n684,542,096\n696,731,965\n708,265,768\n720,455,636\n732,645,505\n744,835,374\n757,025,243\n769,215,112\n781,404,981\n793,080,609\n805,726,782\n818,372,955\n831,019,128\n843,665,301\n855,645,567\n868,291,740\n880,937,913\n893,584,086\n906,230,259\n918,876,432\n931,522,605\n\n\n\n\n\nThe above cash flow table shows the cash flows based on our best effort cost and time estimation.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Financial Projections</span>"
+    ]
+  },
+  {
+    "objectID": "financial_projections.html#modelled-cash-flow-scenarios",
+    "href": "financial_projections.html#modelled-cash-flow-scenarios",
+    "title": "4  Financial Projections",
+    "section": "4.3 Modelled Cash Flow Scenarios",
+    "text": "4.3 Modelled Cash Flow Scenarios\nFrom that, we derive three more scenarios:\nA. The production start of new helicopters starts 3 months earlier, and the costs are 10% lower.\nB. Base Case\nC. The production start of new helicopters starts 3 months later, and the costs are 10% higher.\nD. The production start of new helicopters starts 6 months later, and the costs are 20% higher.\nThey were built with the following Excel Table.\n\n\n\nScenarios for the Sensitivity Analysis\n\n\nScenario\nCost.Changing.in..\nTime.Changing.in.Years\nSpares.and.Maintenance\n\n\n\n\nA\n-10%\n0\nambitious\n\n\nB\n0%\n0\nexpected\n\n\nC\n10%\n0\nconservative\n\n\nD\n20%\n0\nconservative\n\n\n\n\n\nThe expected number of helicopters sold under these scenarios are:\n\n\n\nYearly Helicopter Sales per Scenario\n\n\nScenario\nHeli.Sales.Time.Decay\nX1\nX2\nX3\nX4\nX5\nX6\nX7\nX8\nX9\nX10\n\n\n\n\nA\n-3M\n0\n0\n14\n32\n40\n40\n40\n40\n40\n40\n\n\nB\nExpected\n0\n0\n7\n30\n40\n40\n40\n40\n40\n40\n\n\nC\n+3M\n0\n0\n0\n30\n40\n40\n40\n40\n40\n40\n\n\nD\n+6M\n0\n0\n0\n23\n40\n40\n40\n40\n40\n40\n\n\n\n\n\nWe calculate with a price of CHF 6 million per new helicopter sold.\nThe expected turnover multiple for spares for the already existing fleet and overhauls is as follows. It is estimated that the costs to generate this turnover are 50% in the base scenario.\n\n\n\nExpected overhaul Multiplier for olf MDs\n\n\nScenario\nSpare.Parts.Overhaul.Existing.Fleet\nX1\nX2\nX3\nX4\nX5\nX6\nX7\nX8\nX9\nX10\n\n\n\n\nA\nOld MD900 / MD902 Explorer_ambitious, -3M\n0\n0\n10\n20\n20\n10\n10\n5\n0\n0\n\n\nB\nOld MD900 / MD902 Explorer_expected\n0\n0\n5\n10\n10\n10\n5\n5\n0\n0\n\n\nC\nOld MD900 / MD902 Explorer_conservative, +3M\n0\n0\n0\n5\n5\n5\n5\n5\n0\n0\n\n\nD\nOld MD900 / MD902 Explorer_conservative, +6M\n0\n0\n0\n4\n5\n5\n5\n5\n0\n0\n\n\n\n\n\nFor the newly produced MDs, we estimate that after 6 years, spares and overhauls have to be made for consecutive 6 years, equally distributed. Therefore, the following multiples for the spares can be added for the new helicopters:\n\n\n\nExpected overhaul Multiplier for new MDs\n\n\nSpare.Parts.Overhaul.Existing.Fleet\nX1\nX2\nX3\nX4\nX5\nX6\nX7\nX8\nX9\nX10\n\n\n\n\nNew MDs\n0\n0\n0\n0\n0\n0\n0\n0\n1\n6",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Financial Projections</span>"
+    ]
+  },
+  {
+    "objectID": "financial_projections.html#j-curves",
+    "href": "financial_projections.html#j-curves",
+    "title": "4  Financial Projections",
+    "section": "4.4 J-Curves",
+    "text": "4.4 J-Curves\nFrom the scenarios described above, we can compare their J-Curves.\nNote that the sales prices are kept at the level of the base scenario B.\nAlso, the basic cash flow model includes costs for the TC at CHF 15 mio, land at Mollis Airport to be bought in month 18 months for an expected CHF 1,5 mio, and a production hall built in Mollis for CHF 14 mio in month 54.\n\n\n\n\n\n\n\n\n\n\n\n\nScenario\nMinimum Cash Flow\n\n\n\n\nA\n(23,602,569)\n\n\nB\n(26,256,188)\n\n\nC\n(39,095,344)\n\n\nD\n(42,553,102)",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Financial Projections</span>"
+    ]
+  },
+  {
+    "objectID": "financial_projections.html#company-valuation",
+    "href": "financial_projections.html#company-valuation",
+    "title": "4  Financial Projections",
+    "section": "4.5 Company Valuation",
+    "text": "4.5 Company Valuation\n\n4.5.1 Corporate Tax\nAs of 1st January 2024 Switzerland introduced the OECD minimum taxation for international companies of 15% for consolidated revenues of the group of more than EUR 750 Million per year.1 As EUR differs from the base currency of the calculations CHF, the accumulated turnover over any 12 months will be converted into Swiss Francs at the current EURCHF rate. At this point of the model, we do not add any fluctuations in the foreign exchange rate for this purpose.\nThere is a great likelihood that the hurdle annual consolidated revenues may be reached, and the actual corporate tax rate of 12.6% (see facts and figures on the website of Kontaktstelle Wirtschaft, Kanton Glarus) will be increased to 15% towards the end of our cash flow model.\nWe assume that taxes are paid in the same month as they occur. There is no treatment of pre- or post-payment of taxes, nor any interest earned or paid taxes being paid earlier or later.\n\n\n4.5.2 Company Value over Time\nFor the visualisation of the company value over thime we assumed:\n\nThe above tax considerations, with a EURCHF exchange rate of 0.94\na discount rate of the free cash flow for the first 33 months of 12%, and 8% thereafter\na tax loss carry forward of a maximum of 7 years.\n\n\n\n\nKey results (CHF):\n\n\nPresent value of discounted FCF (without continuing value):  434597824 \n\n\nContinuing value (undiscounted):  1644726219 \n\n\nPresent value including discounted continuing value:  1119512565 \n\n\nFirst 12 months (sample):\n\n\n\n\n| Month|   Monthly CF|       Cum CF|          FCF| PV contribution|\n|-----:|------------:|------------:|------------:|---------------:|\n|     0|            0|            0|            0|               0|\n|     1| (16,325,500)| (16,325,500)| (16,325,500)|    (16,020,036)|\n|     2|    (209,000)| (16,534,500)|    (209,000)|       (203,162)|\n|     3|    (209,000)| (16,743,500)|    (209,000)|       (201,252)|\n|     4|    (209,000)| (16,952,500)|    (209,000)|       (199,360)|\n|     5|    (209,000)| (17,161,500)|    (209,000)|       (197,486)|\n|     6|    (509,000)| (17,670,500)|    (509,000)|       (476,439)|\n|     7|    (209,000)| (17,879,500)|    (209,000)|       (193,791)|\n|     8|    (209,000)| (18,088,500)|    (209,000)|       (191,970)|\n|     9|    (209,000)| (18,297,500)|    (209,000)|       (190,165)|\n|    10|    (209,000)| (18,506,500)|    (209,000)|       (188,378)|\n|    11|    (209,000)| (18,715,500)|    (209,000)|       (186,607)|\n\n\n\n\n\n\n\n\n\n\nSaved valuation plot to: ./output/company_valuation_cfB.png \n\n\nSaved discounted/valuation CSV to: ./output/valuation_cfB_timeseries.csv",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Financial Projections</span>"
+    ]
+  },
+  {
+    "objectID": "financial_projections.html#footnotes",
+    "href": "financial_projections.html#footnotes",
+    "title": "4  Financial Projections",
+    "section": "",
+    "text": "https://www.bdo.ch/en-gb/insights/what-impact-will-implementation-of-oecd-minimum-taxation-have-in-switzerland↩︎",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Financial Projections</span>"
+    ]
+  },
+  {
+    "objectID": "acquisition_process.html",
+    "href": "acquisition_process.html",
+    "title": "5  Acquisition Process of TC",
+    "section": "",
+    "text": "5.1 Required Documents",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Acquisition Process of TC</span>"
+    ]
+  },
+  {
+    "objectID": "acquisition_process.html#required-documents",
+    "href": "acquisition_process.html#required-documents",
+    "title": "5  Acquisition Process of TC",
+    "section": "",
+    "text": "Letter of Interest to acquire the TC\nProof of Funds for the acquisition price\nReady, Willing, and Able Letter from the investor(s)\nBoard Resolution of marenco-aviation GmbH",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Acquisition Process of TC</span>"
+    ]
+  },
+  {
+    "objectID": "acquisition_process.html#previous-letters-to-seabury-securities-llc",
+    "href": "acquisition_process.html#previous-letters-to-seabury-securities-llc",
+    "title": "5  Acquisition Process of TC",
+    "section": "5.2 Previous Letters to Seabury Securities LLC",
+    "text": "5.2 Previous Letters to Seabury Securities LLC\nIn addition to the ongoing telephone conversations with the sell-side investment bank, marenco-aviation GmbH sent:\nan initial non-binding LOI on April 15, 2025, and\nclarifications to the LOI on April 24, 2025.\nSeabury Security LLC expects a binding LOI to move forward.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Acquisition Process of TC</span>"
+    ]
+  }
+]
